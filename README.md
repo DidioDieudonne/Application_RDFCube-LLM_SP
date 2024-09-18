@@ -39,26 +39,26 @@ Pour cloner et utiliser cette application, vous devez avoir une **clé API OpenA
    ```bash
    git clone https://github.com/DidioDieudonne/Application_RDFCube-LLM_SP.git
    cd Application_RDFCube-LLM_SP
-2. ** Créer un environnement virtuel et l'activer :
+2. ** Créer un environnement virtuel et l'activer :**
    ```bash
    python -m venv .venv
    source .venv/bin/activate
 
-3. ** Créez un fichier .env et ajoutez-y votre clé API OpenAI
+3. ** Créez un fichier .env et ajoutez-y votre clé API OpenAI**
 
    ```bash
    OPEN_API_KEY=votre_cle_api
 
-4. ** Lancer l'application dans Visual Studio Code :
+4. ** Lancer l'application dans Visual Studio Code :**
    Ouvrez le projet dans VSCode
 
    ```bash
    OPEN_API_KEY=votre_cle_api
 ### Auteurs
-Dieudonné BYAOMBE MWINDULWA
-Priscile EBWALLA EBWALETTE
-Haback Marthe Désirée Olivia
-David Lutala Lushuli
+Dieudonné BYAOMBE MWINDULWA,
+Priscile EBWALLA EBWALETTE,
+Haback Marthe Désirée Olivia,
+David Lutala Lushuli,
 
 Encadré par : Dr. Tuong Nguyen
 
