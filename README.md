@@ -39,4 +39,16 @@ Pour cloner et utiliser cette application, vous devez avoir une **clé API OpenA
    ```bash
    git clone https://github.com/DidioDieudonne/Application_RDFCube-LLM_SP.git
    cd Application_RDFCube-LLM_SP.
+2. ** Créer un environnement virtuel et l'activer :
+
+  ```bash
+   python -m venv .venv
+   source .venv/bin/activate.
+
+3. **Créez un fichier .env et ajoutez-y votre clé API OpenAI
+
+   ```bash
+     OPENAI_API_KEY=votre_cle_api
+
+
 
