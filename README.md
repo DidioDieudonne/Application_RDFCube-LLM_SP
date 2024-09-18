@@ -26,12 +26,17 @@ L'application est constituée de trois principaux composants :
 
 - Python 3.10 ou plus récent
 - **Poetry** pour la gestion des dépendances
-- Une clé API OpenAI pour interagir avec le modèle de langage.
+- **Clé API OpenAI** pour interagir avec le modèle de langage
+
+### Important : Clé OpenAI
+
+Pour cloner et utiliser cette application, vous devez avoir une **clé API OpenAI** valide. Vous pouvez obtenir cette clé en créant un compte sur [OpenAI](https://openai.com/) et en générant une clé via leur interface de gestion des API. Cette clé sera nécessaire pour interagir avec les capacités du modèle de langage intégré à l'application.
 
 ### Étapes d'Installation
 
 1. **Cloner le dépôt du projet :**
 
    ```bash
-   git clone https://github.com/votre-repo/education-llm-rdfcube.git
-   cd education-llm-rdfcube
+   git clone https://github.com/DidioDieudonne/Application_RDFCube-LLM_SP.git
+   cd Application_RDFCube-LLM_SP.
+
