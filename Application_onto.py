@@ -5,7 +5,7 @@ import re
 import os
 
 # Configurer la clé API OpenAI
-os.environ["OPENAI_API_KEY"] = "sk-bOnVQ_3QqGjxILYhPakZiO-vVHebj6btg-QDrVtiSVT3BlbkFJki76-i8Brm1RQtXylD_vOZmg6yHyPm_86RHGCpcR0A"
+os.environ["OPENAI_API_KEY"] = " "
 
 # Fonction pour générer une réponse en utilisant OpenAI
 def generate_response(prompt):
